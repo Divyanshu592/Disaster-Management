@@ -38,7 +38,7 @@ Before you start, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/Divyanshu592/Disaster-Management.git](https://github.com/Divyanshu592/Disaster-Management.git)
+https://github.com/Divyanshu592/Disaster-Management.git
 ```
 
 ### 2. Install Backend Dependencies
